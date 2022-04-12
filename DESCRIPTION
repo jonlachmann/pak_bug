@@ -1,0 +1,8 @@
+Package: test
+Type: Package
+Title: Trying to reproduce an error in pak
+Version: 1.0
+Depends:
+    glassoFast
+Remotes:
+    JClavel/glassoFast
